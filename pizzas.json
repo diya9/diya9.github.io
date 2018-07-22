@@ -3,7 +3,7 @@
         "title": "Vegie Supreme",
         "ingredients": "Capsicum, Onion, Cherry Tomato, Broccoli, Cauliflower",
         "price": "70 Rs",
-        "imagePath": "../styles/img/mix-veg-pizza-1.jpg",
+        "imagePath": "./img/mix-veg-pizza-1.jpg",
         "type": "Veg"
     },
     {
@@ -11,41 +11,41 @@
         "title": "Paneer N Onion",
         "ingredients": "Capsicum, Onion, Black Olives, Paneer, Corns",
         "price": "90 Rs",
-        "imagePath": "./../styles/img/paneerOnion.JPG"
+        "imagePath": "./img/paneerOnion.JPG"
     },
     {
         "id": 3,
         "title": "Cheese N Corn",
         "ingredients": "Corns, Cheese",
         "price": "60 Rs",
-        "imagePath": "./../styles/img/cornPizza.jpg"
+        "imagePath": "./img/cornPizza.jpg"
     },
     {
         "id": 4,
         "title": "Paneer Supreme",
         "ingredients": "Paneer, Cheese, Capsicum",
         "price": "80 Rs",
-        "imagePath": "./../styles/img/paneerPizza.jpg"
+        "imagePath": "./img/paneerPizza.jpg"
     },
     {
         "id": 5,
         "title": "Onion Capsicum",
         "ingredients": "Onion, Capsicum, Tomatos, Cheese",
         "price": "60 Rs",
-        "imagePath": "./../styles/img/onion_capsicum_tomato_pizza.jpg"
+        "imagePath": "./img/onion_capsicum_tomato_pizza.jpg"
     },
     {
         "id": 100,
         "title": "Cheesey Chicken",
         "ingredients": "Chicken, Cheese, Olives",
         "price": "270 Rs",
-        "imagePath": "./../styles/img/cheeseyChicken.jpg"
+        "imagePath": "./img/cheeseyChicken.jpg"
     },
     {
         "id": 101,
         "title": "Chicken Delight",
         "ingredients": "BBQ Chicken, Cheese, Black Papper",
         "price": "300 Rs",
-        "imagePath": "./../styles/img/chickenPizza.jpg"
+        "imagePath": "./img/chickenPizza.jpg"
     }
 ]
