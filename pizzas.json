@@ -3,7 +3,7 @@
         "title": "Vegie Supreme",
         "ingredients": "Capsicum, Onion, Cherry Tomato, Broccoli, Cauliflower",
         "price": "70 Rs",
-        "imagePath": "../styles/img/mix-veg-pizza-1.jpg",
+        "imagePath": "./img/mix-veg-pizza-1.jpg",
         "type": "Veg"
     },
     {
